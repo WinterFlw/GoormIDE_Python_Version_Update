@@ -1,14 +1,13 @@
 # GoormIDE Python Version Update
-
-## 구름ide 파이썬 버전 업데이트
+구름IDE 파이썬 버전 업데이트
 
 ---
 
-# 업데이트를 시작해보자.
+# 업데이트 시작
 
 ![setting1.png](./image/setting1.png)
 
-▶작성시점 기준(2023-07-24)으로 작성되었습니다.ssss
+▶작성시점 기준(2023-07-24)으로 작성되었습니다.
 
 구름IDE의 우분투18.04LTS 컨테이너 생성시 파이썬 버전이 3.7.4로 설치되어 있습니다. 
 
@@ -57,9 +56,10 @@ sudo apt-get install libssl-dev openssl
 
 ---
 
-## 파이썬 설치
+# 파이썬 설치
 
-[Download Python](https://www.python.org/downloads/)
+[![Download Python](https://img.shields.io/badge/Download-Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/downloads/)
+
 
 파이썬을 설치하기 위해서 들어가주세요.
 
