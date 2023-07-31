@@ -93,15 +93,6 @@ su root
 make install
 ```
 
-좌측 하단 기본설정>터미널>프로필로 가서 코드를 추가합니다.
-
-```bash
-alias python3='/usr/local/bin/python3.11'
-```
-
-![setting2.png](./image/setting2.png)
-
----
 
 이제 버전을 확인해봅니다.
 
