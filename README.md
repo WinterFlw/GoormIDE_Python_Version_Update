@@ -12,7 +12,7 @@
 구름IDE의 우분투18.04LTS 컨테이너 생성시 파이썬 버전이 3.7.4로 설치되어 있습니다. 
 
 최신버전은 3.11.4임을 생각하면 구버전을 사용하고 있습니다.
-
+<!--
 먼저 관리자 권한을 통해 apt를 업데이트 해줍니다.
 
 ```bash
@@ -53,7 +53,7 @@ sudo apt-get install libncursesw5-dev libgdbm-dev libc6-dev
 중간중간 Y/n을 물을땐 y입력하고 엔터 누르시면 됩니다.
 
 ---
-
+-->
 # 파이썬 설치
 
 [![Download Python](https://img.shields.io/badge/Download-Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/downloads/)
