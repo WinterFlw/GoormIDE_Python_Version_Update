@@ -1,6 +1,6 @@
 # GoormIDE Python Version Update
 구름IDE 파이썬 버전 업데이트
-
+리눅스를 처음 쓰는 필자와 같은 초보자들을 위해!
 ---
 
 # 업데이트 시작
