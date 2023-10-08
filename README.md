@@ -1,6 +1,6 @@
 # GoormIDE Python Version Update
 구름IDE 파이썬 버전 업데이트
-리눅스를 처음 쓰는 필자와 같은 초보자들을 위해!
+우분투를 처음 쓰는 필자와 같은 초보자들을 위해!
 ---
 
 # 업데이트 시작
@@ -12,8 +12,9 @@
 구름IDE의 우분투18.04LTS 컨테이너 생성시 파이썬 버전이 3.7.4로 설치되어 있습니다. 
 
 최신버전은 3.11.4임을 생각하면 구버전을 사용하고 있습니다.
-<!--
-먼저 관리자 권한을 통해 apt를 업데이트 해줍니다.
+
+이에 앞서 apt update 하는 법을 알려드리겠습니다.
+사실 파이썬 업데이트와 관련은 없지만, 도움이 될 것 입니다.
 
 ```bash
 sudo apt-get update
@@ -40,7 +41,7 @@ wget -q -O - https://packages.cloudfoundry.org/debian/cli.cloudfoundry.org.key |
 ```bash
 sudo apt-get update
 ```
-
+<!--
 나머지도 설치해주세요.
 
 ```bash
